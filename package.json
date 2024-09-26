@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "live-server public",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
